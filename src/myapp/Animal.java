@@ -1,8 +1,7 @@
 package myapp;
 
-public class App {
+public class Animal {
     public static void main(String[] args) {
-        System.out.println("Hello Animal");
-
+        System.out.println("Fck");
     }
 }
